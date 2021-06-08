@@ -3,10 +3,45 @@ body {
   }
   h1 {
     color: rgb(134, 134, 168);
+    text-align: center;
+   
   }
   p {
     color:rgb(38, 36, 39);
-  }      
+  } 
+  header h1{
+      font-size: 50px;
+  }     
+header ul li {
+    display: inline;
+    padding: 5px;
+    margin: 10px;
+
+    border: solid tomato;
+}
+header nav{
+    margin-bottom: 30px;
+    margin-top:20px ;
+}
+section h1{
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+section p{
+    text-indent: 20px;
+    margin-left: 10px;
+    line-height: 1.5;
+}
+img{
+    margin-top: 10px;
+
+}
+footer{
+    margin-top: 17%;
+    text-align: center;
+    background-color: rgb(38, 36, 39);
+    color: seashell;
+}
 
 
 
