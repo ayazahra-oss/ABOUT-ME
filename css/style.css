@@ -8,6 +8,8 @@ body {
   }
   p {
     color:rgb(38, 36, 39);
+    text-align: center;
+    margin-bottom: 10px;
   } 
   header h1{
       font-size: 50px;
@@ -33,7 +35,8 @@ section p{
     line-height: 1.5;
 }
 img{
-    margin-top: 10px;
+    margin: top 30px;px;
+    margin-bottom: 30px;
 
 }
 footer{
@@ -43,5 +46,12 @@ footer{
     color: seashell;
 }
 
-
-
+section h2 lu li {
+    float: right;
+    line-height: 3;
+}
+h2{
+    font-size: 25px;
+    line-height: 1.5
+    ;
+}
