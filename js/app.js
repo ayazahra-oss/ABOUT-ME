@@ -1,4 +1,4 @@
-'use strict';
+/*'use strict';
 
 let score = 0;
 
@@ -139,7 +139,7 @@ do {
 }
 console.log(question);*/
 
-
+/*
 
 let favcars = ['hennessey Venom F5','mercedes','tesla','bmw I8','mustang ford'];
 for(let i = 0; i < 6 ; i++)
@@ -169,9 +169,10 @@ for(let i = 0; i < 6 ; i++)
 
 }
 alert( ' you got ' + score + '/ 7');
+*/
 
 
-/*
+
 function userStatement(question , right , notRight){
 
   let userInput;
@@ -272,4 +273,4 @@ function carSelect(){
 }
 carSelect();
 
-alert( ' you got ' + score + '/ 7')*/
+alert( ' you got ' + score + '/ 7');
