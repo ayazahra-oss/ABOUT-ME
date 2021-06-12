@@ -1,8 +1,8 @@
 body {
-    background-color: powderblue;
+    background-color: rgb(147, 103, 110);
   }
   h1 {
-    color: rgb(134, 134, 168);
+    color: rgb(59, 59, 78);
     text-align: center;
    
   }
@@ -61,3 +61,4 @@ h2{
     line-height: 1.5;
     padding-bottom: 15px;
 }
+
